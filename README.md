@@ -14,7 +14,7 @@ A simple Rock-Paper-Scissors game built using HTML, CSS, and JavaScript. The gam
 ---
 
 ## Live Project Demo
-You can check out the live version of the app **[here](#)**
+You can check out the live version of the app **[Rock-Paper-Scissor](https://sanjeevanishivde.github.io/Rock-Paper-Scissor/)**
 
 ---
 
