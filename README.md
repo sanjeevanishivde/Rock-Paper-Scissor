@@ -1,4 +1,4 @@
-# Rock-Paper-Scissors Game
+# Rock-Paper-Scissor Game
 
 A simple Rock-Paper-Scissors game built using HTML, CSS, and JavaScript. The game allows the user to play against the computer, track scores, and enable autoplay mode.
 
